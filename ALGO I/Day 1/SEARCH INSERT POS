@@ -1,0 +1,9 @@
+class Solution(object):
+    def searchInsert(self, nums, target):
+       try:
+        return nums.index(target)
+       except:
+         #elif target not in nums:
+           nums.append(target)
+           nums.sort()
+           return (nums.index(target))
