@@ -1,10 +1,10 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
-- Preferred Programming Language: C++/Java/Python
+- Name: AKASH TIWARI
+- University Roll No.:1900290000007
+- Branch:CE
+- Section:A
+- Preferred Programming Language: Python
 
 ## Coding Profiles
 - LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
