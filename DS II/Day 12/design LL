@@ -1,0 +1,7 @@
+ def __init__(self):
+        self.values = []
+    
+    def get(self, index): 
+        if  index < 0 or index >= len(self.values):
+            return -1
+        return self.values[index]
