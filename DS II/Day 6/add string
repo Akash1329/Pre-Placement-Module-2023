@@ -1,0 +1,7 @@
+class Solution:
+    def addStrings(self, num1: str, num2: str) -> str:
+        
+        res = [] 
+        carry = 0
+        p1 = len(num1) - 1
+        p2 = len(num2) - 1
